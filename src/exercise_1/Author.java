@@ -62,6 +62,6 @@ public class Author {
 		a.modifyCitation(p3, 2, false);
 		a.modifyCitation(p4, 1, true);
 
-		System.out.println(a);
+		System.out.println(a); //
 	}
 }
